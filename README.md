@@ -15,4 +15,4 @@ IoT: Plant Environment Monitoring System Design
 
 ## Result
 
-<img width="200" alt="visualisation" src="https://user-images.githubusercontent.com/67747655/141296203-e75af882-3a72-4a81-aa81-fc3b7121bf67.png">
+<img width="600" alt="visualisation" src="https://user-images.githubusercontent.com/67747655/141296203-e75af882-3a72-4a81-aa81-fc3b7121bf67.png">
