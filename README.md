@@ -1,4 +1,4 @@
-# CASA0014-CE Plant Monitor
+IoT: Plant Environment Monitoring System Design
 
 - Name: Qian Jin(Ashley)
 - Student ID: uncfqji
